@@ -223,8 +223,8 @@ export default function WebAgency2Page() {
           useInvertedBackground={false}
           faqsAnimation="slide-up"
           faqs={[
-            { id: "1", title: "What is your delivery methodology?", content: "We utilize an agile development model with bi-weekly sprint reviews, ensuring constant feedback loops and rapid deployment cycles." },
             { id: "2", title: "How is your pricing structured?", content: "We provide value-based pricing models defined by project scope, complexity, and resource requirements rather than generic tiers." },
+            { id: "1", title: "What is your delivery methodology?", content: "We utilize an agile development model with bi-weekly sprint reviews, ensuring constant feedback loops and rapid deployment cycles." },
             { id: "3", title: "Do you provide site reliability engineering?", content: "Yes, we offer ongoing 24/7 monitoring, security patching, and proactive maintenance to ensure 99.999% uptime." },
             { id: "4", title: "Can you integrate with enterprise ERPs?", content: "Our team specializes in deep integration with complex legacy systems, CRMs, and custom middleware using highly secure API protocols." },
             { id: "5", title: "What is your primary technology stack?", content: "We operate on a modern, typed ecosystem comprising Next.js, TypeScript, PostgreSQL, and global-edge cloud infrastructure." },
